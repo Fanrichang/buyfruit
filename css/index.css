@@ -1,0 +1,22 @@
+.logo {
+    width: 80px;
+}
+
+.nav-item a:hover {
+    background-color: yellow;
+    color: blue;
+    border-radius: 5px;
+}
+
+.bg-color {
+    background-color: #FFC000;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #FCF4DE;
+}
+
+.footer {
+    background-color: #FFC000;
+}
